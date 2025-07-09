@@ -10,3 +10,9 @@ Tasks completed:
 * Conducted hypothesis testing (t-tests, ANOVA)
 * Checked standard regression assumptions (linearity, residual assumptions, homoscedasticity, predictor assumptions etc.)
 * Fitted multiple logistic regression models and interpreted their coefficients and model statistics
+
+
+<div style="text-align: center;">
+  <img src="images/normal_distribution.png" style="display: inline-block; width: 350px; height: 250px; margin-right: 10px;">
+  <img src="images/ols_regression.png" style="display: inline-block; width: 350px; height: 250px;">
+</div>
