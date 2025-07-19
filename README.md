@@ -1,7 +1,5 @@
 ## Modelling and Statistical Analysis
 
-Created by [Junaid Din](https://github.com/junaid-din)
-
 This Project conducts a comprehensive statistical analysis by applying a variety of statistical modelling and inference techniques using Python. The analysis involves simulating data from known distributions, visualizing them, conducting hypothesis tests, fitting statistical models, and evaluating their performance. It uses libraries like scipy, statsmodels, matplotlib, and seaborn.
 
 Tasks completed:
@@ -18,3 +16,8 @@ Tasks completed:
   <img src="images/normal_distribution.png" style="display: inline-block; width: 350px; height: 250px; margin-right: 10px;">
   <img src="images/ols_regression.png" style="display: inline-block; width: 350px; height: 250px;">
 </div>
+
+### 📄 License
+
+This project is licensed under the [MIT License](LICENSE).  
+© 2025 Junaid Din. **Use of this project requires attribution in accordance with the license terms.**
